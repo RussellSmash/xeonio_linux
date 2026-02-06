@@ -1,2 +1,2 @@
 # xeonio_linux
-A KISS Linux operating system optimized for my hardware, providing OpenRC init and a punctual and competent package manager.
+My Debian-based Linux system with significant performance tweaks for Intel Broadwell CPUs and Nvidia-friendly design, providing a pre-configured environment for musicians, independent artists, and designers, faithfully honoring the Debian and Unix-like philosophy.
